@@ -15,7 +15,7 @@
   <img align="left" alt="Twitter" src="https://img.icons8.com/plasticine/344/twitter-squared.png" width=50/>
 </a>
 
-<a href="www.linkedin.com/in/preranajoshi510">
+<a href="https://www.linkedin.com/in/prerana-joshi-25668a239/">
   <img align="left" alt="LinkedIn" src="https://img.icons8.com/plasticine/2x/linkedin.png" width=50/>
 </a>
 
