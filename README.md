@@ -2,7 +2,7 @@
 
 <img align='right' src="https://media4.giphy.com/media/HQHwvSBSy7s0AXOlWt/giphy.gif?cid=ecf05e47hx2qxgvdsic01vvqc607d08of7dc6w0qe0xiz2m0&rid=giphy.gif&ct=s" width=230>
 
-- I'm a fourth-year student at SRIT, Coimbatore, pursuing a bachelor's degree in Computer Science and Engineering.
+- I'm a final year student at SRIT, Coimbatore, pursuing a bachelor's degree in Computer Science and Engineering.
 - Presently, I am learning about data science.
 - I am available on LinkedIn, Gmail, and Twitter.
 - Aside from coding, I like to watch web series and listen to music.
